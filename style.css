@@ -1,0 +1,49 @@
+
+*{
+    box-sizing: border-box;
+    color:black;
+    
+    /* text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue; */
+}
+
+#current-weather{
+    color: rgb(46, 23, 23);
+}
+
+#future-weather{
+    background-color: rgb(145, 217, 232);
+    margin-left: 7px;
+}
+
+.current{
+    color: rgb(123, 61, 61);
+}
+
+.data{
+background-color: rgb(145, 217, 232);
+
+}
+body {
+    
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+h3{
+    font-weight: bold;
+}
+.forecast{
+    
+    font-size: 0.9em;
+}
+span{
+    font-size: 1em;
+}
+li:hover{
+    background-color: lightslategray;
+    text-decoration: underline;
+}
+
+.dabba{
+    background-color: red;
+}
